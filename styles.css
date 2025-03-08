@@ -29,6 +29,13 @@ h1{
     }
 }
 
+@media(max-width:600px){
+
+    .menu{
+        margin:0px;
+    }
+}
+
 .img{
     border-radius: 10px;
     width: 93%;
